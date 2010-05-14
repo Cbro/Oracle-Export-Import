@@ -1,0 +1,1 @@
+Some Oracle XE database scripts written to create a development environment in very little time by unloading the dev data into CSV format, redoing the entire schema and then re-importing the dev data back in.
